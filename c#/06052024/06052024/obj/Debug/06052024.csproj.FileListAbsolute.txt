@@ -1,0 +1,2 @@
+C:\Users\USER\Documents\mego\progremming\mego\c#\06052024\06052024\obj\Debug\06052024.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\mego\progremming\mego\c#\06052024\06052024\obj\Debug\06052024.csproj.CoreCompileInputs.cache

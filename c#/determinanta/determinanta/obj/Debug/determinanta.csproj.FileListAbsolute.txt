@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\mego\progremming\mego\c#\determinanta\determinanta\bin\Debug\determinanta.exe.config
+C:\Users\USER\Documents\mego\progremming\mego\c#\determinanta\determinanta\bin\Debug\determinanta.exe
+C:\Users\USER\Documents\mego\progremming\mego\c#\determinanta\determinanta\bin\Debug\determinanta.pdb
+C:\Users\USER\Documents\mego\progremming\mego\c#\determinanta\determinanta\obj\Debug\determinanta.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\mego\progremming\mego\c#\determinanta\determinanta\obj\Debug\determinanta.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\mego\progremming\mego\c#\determinanta\determinanta\obj\Debug\determinanta.exe
+C:\Users\USER\Documents\mego\progremming\mego\c#\determinanta\determinanta\obj\Debug\determinanta.pdb

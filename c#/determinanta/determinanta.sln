@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "determinanta", "determinanta\determinanta.csproj", "{53D4DA58-36A7-40C4-B60E-184D0650F028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D4DA58-36A7-40C4-B60E-184D0650F028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D4DA58-36A7-40C4-B60E-184D0650F028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D4DA58-36A7-40C4-B60E-184D0650F028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D4DA58-36A7-40C4-B60E-184D0650F028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAD2CE4-DC21-49E7-9D28-D87F9FA6FF25}
+	EndGlobalSection
+EndGlobal
