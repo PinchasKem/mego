@@ -120,7 +120,7 @@ def legal_choice(choice):
         j=choice%3-1
     if(a[i][j]>0):
         return False
-    return True
+    return True 
 
 ##  השמת ערך בטבלה
 def player(choice,z):
