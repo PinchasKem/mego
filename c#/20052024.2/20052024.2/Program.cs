@@ -89,7 +89,7 @@ namespace _20052024._2
             for (int i = 0; i < arr.Length; i++)
             {
                 int a = rnd.Next(0, 6);
-                arr[i] = new box(colors[a]);
+                arr[i] = new box(colors[a] , i+1 , i+2 , i+3);
             }
             Console.WriteLine(smallbox(arr));
         }
