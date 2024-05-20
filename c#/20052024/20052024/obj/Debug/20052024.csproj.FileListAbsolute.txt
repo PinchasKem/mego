@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\mego\progremming\mego\c#\20052024\20052024\bin\Debug\20052024.exe.config
+C:\Users\USER\Documents\mego\progremming\mego\c#\20052024\20052024\bin\Debug\20052024.exe
+C:\Users\USER\Documents\mego\progremming\mego\c#\20052024\20052024\bin\Debug\20052024.pdb
+C:\Users\USER\Documents\mego\progremming\mego\c#\20052024\20052024\obj\Debug\20052024.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\mego\progremming\mego\c#\20052024\20052024\obj\Debug\20052024.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\mego\progremming\mego\c#\20052024\20052024\obj\Debug\20052024.exe
+C:\Users\USER\Documents\mego\progremming\mego\c#\20052024\20052024\obj\Debug\20052024.pdb

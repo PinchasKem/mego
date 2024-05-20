@@ -3,6 +3,11 @@ import random
 from colorama import Fore, Back, Style ,init
 init(autoreset=True)
 
+def main():
+    print(Fore.YELLOW+("    " + '-'*15))
+    print(Fore.YELLOW+("   | 1 | 2 | 3 | 4 |"))
+    print(Fore.YELLOW+("    " + '-'*15))
+
 def colors():
     print("   "+\
           A + "=1    " +\
@@ -69,7 +74,5 @@ eindex = [' ', A, B, C, D, E, F]
 a = [0 for _ in range(4)]
 for i in range(4):
     a[i] = random.randint(1,6)
-print(Fore.YELLOW+("    " + '-'*15))
-print(Fore.YELLOW+("   | 1 | 2 | 3 | 4 |"))
-print(Fore.YELLOW+("    " + '-'*15))
+main()
 to_choose() 
